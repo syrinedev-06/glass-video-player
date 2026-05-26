@@ -1,0 +1,33 @@
+{
+  "name": "glass-video-player",
+  "version": "1.0.0",
+  "description": "A premium iOS-style glassmorphic video player for React, featuring gestures, custom slider controls, brightness and volume overlays.",
+  "main": "src/components/AppleVideoPlayer.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "react",
+    "video-player",
+    "glassmorphism",
+    "ios-style",
+    "gestures",
+    "brightness",
+    "volume",
+    "framer-motion",
+    "motion",
+    "lucide-react"
+  ],
+  "author": "MARS AI Team",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0",
+    "motion": "^11.0.0 || ^12.0.0",
+    "lucide-react": "^0.300.0 || ^0.400.0 || ^0.500.0"
+  },
+  "dependencies": {
+    "lucide-react": "^0.563.0",
+    "motion": "^12.29.3"
+  }
+}
